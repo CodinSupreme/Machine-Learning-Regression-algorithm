@@ -5,3 +5,7 @@ It can perform
 * Multilinear Regression
 * Polynomial Regression
 * Logical Regression
+
+# Requirements
+* numpy
+* matplotlib
